@@ -1,0 +1,5 @@
+cloudy-win10 admin login check邏輯
+1.5分 cloudy-win10 在c:\temp\check寫入 cloudylogin.txt
+2.10分  holiday check cloudy-win10 c:\temp\check\cloudylogin.txt
+        存在: 刪除
+        不存在: line通知

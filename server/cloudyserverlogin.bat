@@ -1,0 +1,1 @@
+echo "cloudy admin login success" > c:\temp\check\cloudylogin.txt
